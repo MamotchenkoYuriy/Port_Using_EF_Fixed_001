@@ -1,0 +1,10 @@
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\bin\Debug\Core.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\bin\Debug\Core.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\obj\Debug\Core.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\obj\Debug\Core.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\bin\Debug\Core.dll.config
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\bin\Debug\EntityFramework.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\bin\Debug\EntityFramework.xml
+C:\Users\Yuriy\Documents\Visual Studio 2015\Projects\Port_Using_EF_Fixed\Port_Using_EF_Fixed\Core\bin\Debug\EntityFramework.SqlServer.xml
